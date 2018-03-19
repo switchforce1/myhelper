@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "AppBundle\\": "src/AppBundle"
+            "SwitchForce1\\": "src/SwitchForce1"
         },
         "classmap": [
             "app/AppKernel.php",
