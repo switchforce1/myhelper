@@ -6,11 +6,14 @@
  * and open the template in the editor.
  */
 
+namespace Switchforce1\FileBundle\Handler;
+
 /**
- * Description of FileUploader
+ * Description of FileUploadHandler
  *
  * @author switch
  */
-class FileUploader {
+class FileUploadHandler 
+{
     //put your code here
 }
